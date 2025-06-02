@@ -1,0 +1,3 @@
+pyQt5
+request 
+Flask>=2.3.2
